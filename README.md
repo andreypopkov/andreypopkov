@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @andreypopkov
-- 👀 I’m working in AP as QA Lead
-- 🌱 I’m currently learning Python
-- 📫 How to reach me ard.mail@mail.ru
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Lead)](https://git.io/typing-svg)
+### Hi there 👋, my name is Andrei
 
-<!---
-andreypopkov/andreypopkov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: Ruby / Selenium / Python / Pytest / API
 
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning python 
+- 📫 How to reach me: ard.mail@mail.ru 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andreypopkov)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreypopkov)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/andreypopkov)  
